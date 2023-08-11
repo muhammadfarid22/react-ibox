@@ -1,0 +1,137 @@
+*{
+    font-family: "Poopins", sans-serif;
+}
+
+/** Style Navbar **/
+.navbar {
+    position: auto;
+    padding: 15px 160px 16px 50px;
+    width: 100%;
+}
+
+.me-auto {
+    gap: 26px;
+}
+
+.navbar .nav-link {
+    padding: 10px 10px 10px 10px;
+    font-size: small;
+    text-decoration: none;
+    color: white;
+}
+
+.iphone {
+    font-weight: bold;
+}
+
+/** Style Navbar**/
+
+.homepage .border {
+    position: relative;
+    margin: 29px 65px 18px;
+    text-align: center;
+    background-color: #f5f5f5;
+    color: #000;
+    padding: 12px;
+    font-size: 11px;
+}
+
+.l {
+    width: 100%;
+}
+
+.layanan{
+    width: 100%;
+    justify-content: center;
+}
+
+.gambar {
+    height: 90px;
+    margin-left: 90px;
+}
+
+.homepage .card {
+    border-radius: 0px;
+    height: 130px;
+    background-color: #252525;
+    color: beige;
+}
+
+.sercing{
+    background-color: #000;
+    color: white;
+    font-size: 13px;
+    height: 85px;
+    padding-top: 35px;
+    padding-left: 63px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between
+}
+
+.sercing-box{
+    color: grey;
+    float: right;
+    font-size: 15px;
+    margin-right: 100px;
+}   
+
+.itil{
+    width: 20%;
+    font-size: 13px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.logo-ibox{
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.teks-biodata{
+    font-size: 13px;
+    margin-left: 60px;
+    line-height: 3px;
+}
+
+.layanan-footer{
+    margin-top: 30px;
+    margin-left: 60px;
+    font-size: 13px;
+}
+
+.direktorat{
+    margin-left: 60px;
+    font-size: 13px;
+    line-height: 3px;
+}
+
+.wa{
+    margin-left: 60px;
+    font-size: 13px;
+    line-height: 65px;
+}
+
+.informasi{
+    margin-left: 600px;
+    font-size: 13px;
+    line-height: 1;
+}
+
+.informasi-footer{
+    font-family: arial;
+    font-size: 13px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.nformasi-footer{
+    font-size: 13px;
+    margin-left: 60px;
+    line-height: 3px;
+}
+/** Style HomePage **/
